@@ -1,0 +1,1034 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? Выпишите это слово.\nмозаИчный\nвероисповедАние\nдОсуха\nзАняли\nодолжИт",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "вероисповЕдание"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "2",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? Выпишите это слово.\nОтрочество\nподнЯв\nплодонОсить\nновостЕй\nопОшлить",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "плодоносИть"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "3",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? Выпишите это слово.\nеретИк\nжалюзИ\nкралАсь\nисчЕрпать\nбралА",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "крАлась"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "4",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? Выпишите это слово.\nпонялА\nпринудИть\nзАгодя\nприручЁнный\nкаталОг",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "принУдить"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "5",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? Выпишите это слово.\nзавИдно\nсвЁкла\nсверлИт\nзакупОрив\nстолЯр",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "закУпорив"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "6",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? Выпишите это слово.\nнЕдруг\nсвЕрлишь\nосвЕдомиться\nстАтуя\nдобелА",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "сверлишь"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "7",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? Выпишите это слово.\nнасорИт\nдонЕльзя\nкремнЯ\nстолЯр\nОптовый",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "оптовый"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "8",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? Выпишите это слово.\nоклЕить\nбАнты\nмОлящий\nзАгодя\nщемИт",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "молящий"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "9",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? Выпишите это слово.\nсорИт\nнекролОг\nповторЁнный\nкОрмящий\nзакУпорив",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "кормящий"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "10",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? Выпишите это слово.\nотрОчество\nмЕстностей\nоптОвый\nдиспансЕр\nсирОты",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "отрочество"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "11",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? Выпишите это слово.\nнАчатый\nзакупОрить\nукрепИт\nпослАла\nкаталОг",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "закупорить"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "12",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? Выпишите это слово.\nизбалОванный\nкаталОг\nкралАсь\nзавИдно\nдобелА",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "кралась"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "13",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? Выпишите это слово.\nокружИт\nотбылА\nдиспансЕр\nвклЮчен\nлЕкторов",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "включен",
+          "включён"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "14",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? Выпишите это слово.\nОтрочество\nубыстрИть\nпослАла\nпрОживший\nзанятА",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "проживший"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "15",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? Выпишите это слово.\nпринудИть\nуглубИть\nеретИк\nплодоносИть\nдонЕльзя",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "принудить"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "16",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук.\nнажИвший\nОтрочество\nжилОсь\nвернА\nвзЯлась\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "взялась"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "17",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук.\nположИла\nкичИться\nдвоЮродный\nсредствА\nначалсЯ\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "средства"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "18",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный звук.\nходАтайство\nнамЕрение\nтанцовщИца\nпригласИшь\nвоспринялА\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "танцовщица"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "19",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный звук.\nцепОчка\nзанятА\nдозИровать\nслИвовый\nжАлюзи\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "жалюзи"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "20",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук.\nнарвалА\nпонЯвший\nоблЕгчить\nвключИшь\nбалОванный\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "облегчить"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "21",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук.\nграждАнство\nдавнИшний\nпозвонИм\nрвалА\nкрасивЕе\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "красивее"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "22",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук. \nнамЕрение\nдефИс\nзвОнят\nкремЕнь\nцемЕнт\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "звонят"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "23",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук.\nЭксперт\nсрЕдства\nдОсуха\nнЕнависть\nсвЁкла\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "эксперт"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "24",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук.\nКрасивЕе\nпаралИч\nсирОты\nпулОвер\nкладовАя\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "красивее"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "25",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук.\nКрапИва\nщавЕль\nкремЕнь\nвЕрба\nбантЫ\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "банты"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "26",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук.\nнОгтя\nнЕдуг\nопОшлить\nкУхонный\nнЕдруг\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "недуг"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "27",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук.\nнефтепрОвод\nбаловАть\nпонЯвший\nспокОйнее\nцЕнтнер\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "нефтепровод"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "28",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук.\nстАтуя\nпризЫв\nсИроты\nначАв\nободрИть\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "сироты"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "29",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук.\nязыковОе (явление)\nязыкОвая (колбаса)\nплатО\nначАвший\nбАловать\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "баловать"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "30",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук.\nподнЯвший\nсвободнЕе\nгЕрбовый\nиз сенЕй\nкрУжев\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "свободнее"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "31",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук.\nпоутрУ\nколОсс\nерЕтик\nдиспансЕр\nвтрИдорога\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "еретик"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "32",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный звук.\nпринялА\nоцененА\nосвЕдомиться\nмусоропрОвод\nбаловАть\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "мусоропровод"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "33",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук.\nстолЯр\nжАлюзи\nпрозорлИва\nснятА\nзавИдно\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "жалюзи"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "34",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук. \nсоздАв\nнажИвший\nчЕрпать\nнакрЕнится\nнОгтя\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "накренится"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "35",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук? \nОтрочество\nубыстрИть\nпослАла\nпрОживший\nзанятА\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "проживший"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "36",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук?\nпринудИть\nуглубИть\nеретИк\nплодоносИть\nдонЕльзя\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "принудить"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "37",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный звук.\nчЕрпать\nначалсЯ\nаэропОрты\nкатАлог\nобогналА\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "каталог"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "38",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный звук.\nкрасИвее\nзакУпорив\nпроведенА\nпозвАла\nэкспЕрт\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "позвала"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "39",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук?\nИксы\nнасорИт\nкрЕмень\nнажИвший\nдиспансЕр\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "кремень"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "40",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук?\nкорЫсть\nсливОвый\nкровоточАщий\nпринУдил\nкрАны\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "сливовый"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "41",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный звук. \nсоздалА\nкУхонный\nначАвшись\nвероисповедАние\nпослАла\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "вероисповедание"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "42",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный звук.\nзанятА\nнамЕрение\nосведомИться\nизбалОванный\nоптОвый\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "осведомиться"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "43",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный звук.\nвЫжила\nприбЫвший\nкрасИвейший\nместностЕй\nсвЁкла\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "местностей"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "44",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный звук.\nпозвонИт\nзнАчимый\nшофЁр\nклалА\nкаталОг\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "клала"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "45",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук.\nОтзыв (посла из страны)\nнаделИт\nопОшлить\nпрИбыло\nначатА\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "отзыв"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "46",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный гласный звук.\nнедУг\nкОнусов\nвоспрИняла\nбалОванный\nдобелА\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "восприняла"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "47",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: неверно выделена буква, обозначающая ударный звук.\nслИвовый\nдешевИзна\nушёл ненадОлго\nлекция началАсь\nмного лекторОв\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "лекторов"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "48",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук.\n\nкорЫсть\nвключЁн\nзапертА\nлЕкторов\nкралАсь\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "кралась"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "49",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук.\nнаделИт\nопОшлить\nнЕдруг\nбухгалтерОв\nОтрочество\nВыпишите это слово.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "бухгалтеров"
+        ]
+      },
+      "score": 1
+    }
+  ]
+}

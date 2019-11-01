@@ -1,0 +1,1338 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. Исправьте ошибку и запишите слово правильно.\nСЕМЬЮДЕСЯТЬЮ годами\nпара САПОГ\n(нет) ПОЛУТОРАСТА книг\nкилограмм ПОМИДОРОВ\nпой более ЗВУЧНЕЕ",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "звучно"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "2",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. Исправьте ошибку и запишите слово правильно.\nПОЕЗЖАЙ в Подмосковье\nона стала более ПРИЯТНОЙ\nо СТАХ щенках\nдве пары НОСКОВ\nСЕМЬ девочек",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "ста"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "3",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. Исправьте ошибку и запишите слово правильно.\nотблески ПЛАМЕНИ\nЕЗЖАЙ домой\nБЛИЖАЙШАЯ деревня\nчетверо КАДЕТ\nДЕВЯНОСТА рублями",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "поезжай"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "4",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. Исправьте ошибку и запишите слово правильно.\nПЯТЬСОТЫЙ заказ\nзаслуженные ДИРЕКТОРА\nполкило ЯБЛОК\nфабричные ПРЕССЫ\nЧЕТВЕРО ребят",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "пятисотый"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "5",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. Исправьте ошибку и запишите слово правильно.\nКЛАДИ на стол\nвыглядишь БОЛЕЕ КРАСИВЕЕ\nДВЕ ТЫСЯЧИ ДЕСЯТЫЙ год\nкоробка СВЕЧЕЙ\nнаши ИНЖЕНЕРЫ",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "красиво",
+          "красивее",
+          "болеекрасиво"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "6",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. Исправьте ошибку и запишите слово правильно.\nПРИОБРЕТШИЙ дом\nДЕВЯНОСТА саженцам\nпроизнёс более ТИХО\nПОЕЗЖАЙ в город\nнесколько БЛЮДЦЕВ",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "блюдец"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "7",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. Исправьте ошибку и запишите слово правильно.\nНЕДРЫ земли\nболее ПОЛУТОРАСТА тетрадей\nзаговорил БОЛЕЕ ВЕСЕЛО\nмать ЧЕТВЕРЫХ детей\nкилограмм БАКЛАЖАНОВ",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "недра"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "8",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. Исправьте ошибку и запишите слово правильно.\nнесколько БАШЕН\nшерстяные СВИТЕРЫ\nНАИСЛОЖНЕЙШАЯ операция\nвозьми нитку ПОТОЛЩЕ\nв ПОЛУТОРАСТАХ милях",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "полутораста"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "9",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. Исправьте ошибку и запишите слово правильно.\nк ВОСЬМИСОТОМУ году\nНАПОИВ чаем\nв ДВУХСТА экземплярах\nголос ЗВОНЧЕ\nстебли ГЕОРГИНОВ",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "двухстах"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "10",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. Исправьте ошибку и запишите слово правильно.\nмебель для КУХОНЬ\nв тысяча ВОСЬМИСОТОМ году\nв ПОЛУТОРАХ метрах\nзабрать из ЯСЛЕЙ\nнаиболее УМНЫЙ",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "полутора"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "11",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. Исправьте ошибку и запишите слово правильно.\nВОСЬМИДЕСЯТЬЮ копейками\nшесть ПАДЕЖЕЙ\nпой ЗВОНЧЕ\nЛЯГ на кушетку\nблагодаря ИМ",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "восьмьюдесятью",
+          "восемьюдесятью"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "12",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. Исправьте ошибку и запишите слово правильно.\nнесколько СПАЛЕН\nШЕСТЬЮДЕСЯТЬЮ сотрудниками\nВЗМОКНУЛ от стараний\nболее КРЕПКИЙ\nОТКРЫВ книгу",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "взмок"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "13",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. Исправьте ошибку и запишите слово правильно.\nПРОБУЯ на вкус\nникому не ЗАВИДУЮ\nпрочитал более ВЫРАЗИТЕЛЬНО\nбогатые КНЯЗЬЯ\nзанавесить ТЮЛЬЮ",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "тюлем"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "14",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. Исправьте ошибку и запишите слово правильно.\nиз свежих АБРИКОСОВ\nсовсем ОЗЯБНУЛ\nклуб для БАРЫШЕНЬ\nо ШЕСТИСТАХ жильцах\nв ИХ квартире",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "озяб"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "15",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. Исправьте ошибку и запишите слово правильно.\nсдайте ПАСПОРТА\nнесколько ГНЕЗДОВИЙ\nпара ТУФЕЛЬ\nсказал БОЛЕЕ УВЕРЕННО\nПОЛТОРАСТАМИ произведениями",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "полутораста"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "16",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nопытные ТРЕНЕРЫ\nпо ОБОИМ сторонам\nзвучит не менее ГРОМКО\nПОЕЗЖАЙТЕ вперёд\nнет ТУФЕЛЬ\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "обеим"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "17",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nМАХАЕТ платком \nВАЖНЕЙШИЙ вопрос\nчистых ПОЛОТЕНЕЦ\nподелить ПОПОЛАМ\nоколо СЕМИСОТ рублей\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "машет"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "18",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nв БЛИЖАЙШИЕ дни\nсменить ПРОСТЫНЮ\nоколо ПЯТИСОТ экспонатов\nДВУХСОТ второй кабинет\nдвое ГУСАР\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "двести"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "19",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nИХ паспорта\nлучшие ЛЕКТОРЫ \nТРЁМСТАМ участникам\nЗДОРОВШЕ других\nНАПОИВ чаем\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "здоровее"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "20",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nПОЕЗЖАЙТЕ дальше\nвкусные КРЕНДЕЛЯ\nмного ТУРОК\nна ОБЕИХ стенах\nговорите менее БЫСТРО\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "крендели"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "21",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nЕЗДИЮТ на автобусе\nкилограмм ЯБЛОК\nпара ТУФЕЛЬ\nпара НОСКОВ\nнесколько ТАДЖИКОВ\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "ездят"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "22",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. \nна ОБОИХ дорожках\nЯРЧАЙШИЙ цвет\nЛУЧШЕ всего\nДВУМЯСТАМИ страницами\nзаслуженные ДИРЕКТОРА\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "обеих"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "23",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nна ОБЕИХ сторонах\nгруппа ЦЫГАНОВ\nспелых ВИШЕН\nна ширину ПЛЕЧ\nяркого ПЛАМЕНИ\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "цыган"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "24",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nпара ТУФЕЛЬ\nСЛОЖНОЕ ралли\nДВУХСТАМ килограммам\nболее ЯРОСТНО\nзадача ЛЕГЧЕ\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "двумстам"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "25",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nПЯТИСТА рублей\nИХ дом\nвскарабкаться на ПОДМОСТКИ\nнет МАНЖЕТ\nсамый ВЕСЁЛЫЙ\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "пятисот"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "26",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nсамый ЯРЧАЙШИЙ представитель\nКРЕМЫ для лица\nнесколько ПОЛОТЕНЕЦ\nПОЕЗЖАЙ в город\nв ДВЕ ТЫСЯЧИ ПЕРВОМ году\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "яркий"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "27",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nВЕЧЕРНЕЕ Сочи\nсто ГРАММОВ\nискать ПАРТИЗАН\nОБОИХ компонентов\nваренье СЛАЩЕ\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "вечерний"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "28",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nсделать ЛУЧШЕ\nПОКЛАДИ книгу\nполкилограмма ЯБЛОК\nСЕМИДЕСЯТИ лет\nнаши ПАСПОРТА\nИсправьте ошибку и запишите слово правильно. ",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "положи"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "29",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nоколо ДВУХСТА\nруки были СЛАБЕЕ\nнет ПОЛОТЕНЕЦ\nНЕГЛАСНЫМ табу\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "двухсот"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "30",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nребёнок ОКРЕП\nс МИРА по нитке\nТРОЕ мужчин\nСТРАШНАЯ цеце\nмного ПЕЧЕНИЙ\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "миру"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "31",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nОБЕИХ сторон\nДВУМЯСТАМИ книгами\nидти ДАЛЬШЕ\nнесколько ЧУЛКОВ\nПОЕЗЖАЙ на юг\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "чулок"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "32",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из пунктов ниже допущена ошибка в образовании формы слова.\nнесколько полотенец\nпара теплых чулок\nна восьмиста гектарах\nдо две тысячи пятого года\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "восьмистах"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "33",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из пунктов ниже допущена ошибка в образовании формы слова.\nзаслуженные директора\nотряд партизан\nдвое подруг\nболее просто\nИсправьте ошибку и запишите правильное словосочетание без пробелов.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "двеподруги"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "34",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nпо обоим сторонам\nболее пятисот долларов\nопытные инженеры\nрозовый какаду\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "обеим"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "35",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из пунктов ниже допущена ошибка в образовании формы слова.\nтриста килограммов\nбез погон\nехайте осторожно\nдиректора школ\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "поезжайте"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "36",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из примеров допущена ошибка в образовании формы слова.\nнет двух простынь\nлажу по деревьям\nболее простейший\nвосемьюстами тридцатью\nИсправьте ошибку и запишите слово или словосочетание (без пробелов) правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "проще",
+          "болеепростой",
+          "простейший"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "37",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из пунктов ниже допущена ошибка в образовании формы слова.\nдвух кочерёг\nотряд партизанов\nшестьюстами рублями\nмодных туфель\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "партизан"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "38",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из примеров допущена ошибка в образовании формы слова.\nспелых помидоров\nящик макарон\nспелее\nсамый вкуснейший\nИсправьте ошибку и запишите слово или словосочетание (без пробелов) правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "самыйвкусный",
+          "вкуснейший"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "39",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из примеров допущена ошибка в образовании формы слова.\nуважаемые слесари\nменее семиста километров\nдесять килограммов апельсинов\nлампочка зажжется\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "семисот"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "40",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из пунктов ниже допущена ошибка в образовании формы слова.\nвосемь апельсинов\nс шестистами рублями\nнаиболее четко\nразные возрасты\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "шестьюстами"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "41",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из примеров допущена ошибка в образовании формы слова.\nиспанские веера\nсамый крепчайший чай\nболее терпелив\nпятьюстами конвертами\nИсправьте ошибку и запишите слово или словосочетание (без пробелов) правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "крепчайший",
+          "самыйкрепкий"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "42",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. \nсорта АБРИКОСОВ\nмного ДЕЛ\nболее ТОЧНЕЕ (ответить)\nоколо ШЕСТИСОТ метров\nлевая КРОССОВКА\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "точно"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "43",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. \nменее СТРОГИЙ тон\nшесть ЩУПАЛЕЦ\nв ШЕСТИСТА шагах\nСВЕЖАЯ салями\nПРОМОК под дождём\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "шестистах"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "44",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nдожить до ДЕВЯНОСТА лет\nГЛУБОЧАЙШЕЕ озеро\nстоять около РОЯЛИ\nвязаные СВИТЕРЫ\nкоробка КОНСЕРВОВ\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "рояля"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "45",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.  \nиз свежих АБРИКОСОВ\nсовсем ОЗЯБНУЛ\nклуб для БАРЫШЕНЬ\nо ШЕСТИСТАХ жильцах\nв ИХ квартире\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "озяб"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "46",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. \nсдайте ПАСПОРТА\nнесколько ГНЕЗДОВИЙ\nпара ТУФЕЛЬ\nсказал БОЛЕЕ УВЕРЕННО\nПОЛТОРАСТАМИ произведениями\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "полутораста"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "47",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. \nЧЁРНЫЙ кофе\nпорвала ТАПОЧКУ\nСЪЕЗДИЕТ на дачу\nпроездил до СУМЕРЕК\nиз обоих БЛЮДЕЦ\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "съездит"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "48",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. \nкилограмм МАНДАРИНОВ\nв ДВУХСОТ пятой аудитории \nВЫГЛЯДИТ более ЭСТЕТИЧНО\nПЛЕЩУТСЯ в реке\nв ОБОИХ ящиках\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "двести"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "49",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nобраз ИСЧЕЗ\nТРОЕ ножниц\nпирог с ПОВИДЛОЙ\nКРОШЕЧНЫЙ домишко\nпятьсот ПЯТИДЕСЯТАЯ страница\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "повидлом"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "50",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nнаиболее ОТВЕТСТВЕННЫЙ\nСЕМИСОТ семидесяти экземпляров\nпотеряла ТУФЕЛЬ\nголос УМОЛК\nмного СПЛЕТЕН\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "туфлю"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "51",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. \nстарше НЕГО\nлучшие ПОВАРА\nпользуется новым ШАМПУНЕМ\nдо ДВЕ тысячи двадцатого года\nбанка КОНСЕРВОВ\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "его"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "52",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nопытные ИНЖЕНЕРЫ\nприбавить к ТРЁХСТАМ\nв ПОЛУТОРАСТА метрах от дома\nдве ЗОЛОТЫЕ медали\nГОРЯЧИЙ кофе\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "тремстам",
+          "трёмстам"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "53",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nоткрывается ВНУТРЬ\nразделить ПОПОЛАМ\nоколо ПЯТИСОТ рублей\nящик АПЕЛЬСИН\nиз ОБОИХ кранов\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "апельсинов"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "54",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nкожа ТУФЕЛЬ\nиз ТРИСТА пятой аудитории\nприглашённые ПРОФЕССОРА\nс ЧЕТЫРЬМЯ тысячами\nговори более ЯСНЕЕ\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "ясно"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "55",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nПОЕЗЖАЙ вперёд\nОБГРЫЗАННОЕ яблоко\nболее ЧЕТЫРЁХСОТ картин\nкилограмм МАНДАРИНОВ\nдля ОБЕИХ участниц\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "обгрызенное"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "56",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nсалат из ПОМИДОР\nв ТРЁХСТАХ метрах\nЛОПНУВШИЙ воздушный шарик\nвыступил наиболее УДАЧНО\nЛЯГТЕ на бок\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "помидоров"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "57",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nСМОТРЯ вдаль\nопытные ДОКТОРА\nс ШЕСТИСТАМИ рублями\nв ИХ произведениях\nв ОБОИХ случаях\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "шестьюстами"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "58",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nСЛОЖНЕЙШИЙ текст\nПОПРОБОВАЕМ изучить\nкилограмм ТОМАТОВ\nПЯТЬЮДЕСЯТЬЮ листами\nстирка ПОЛОТЕНЕЦ\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "попробуем"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "59",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. \nна ОБЕИХ сторонах\nс ВОСЬМИСТАМИ блюдами\nне ЛЕЗЬ наверх\nв АЭРОПОРТУ\nновые СОРТА\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "восьмьюстами",
+          "восемьюстами"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "60",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nШЕСТЬЮДЕСЯТЬЮ попытками\nнесколько ПОМЕСТИЙ\nДВОЕ саней\nон ВСЕХ БЫСТРЕЕ\nЗАЖГЁШЬ свечу\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "зажжёшь",
+          "зажжешь"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "61",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nЕЗДИТ в клуб\nокно занавешено ТЮЛЕМ\nОБГРЫЗАННАЯ зайцами кора дерева\nс ЧЕТЫРЬМЯ детьми\nпорванный КЕД\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "обгрызенная"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "62",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова. \n\nЧУДЕСНЕЙШИЙ момент\nСБЕРЕЖЁТ здоровье\nзакупили ПОЛТОРАСТА учебников\nответственные СТОРОЖИ\nобъяснил более ДОХОДЧИВО\nИсправьте ошибку.\nВ ответ запишите исправленное слово без пробелов и других дополнительных символов.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "сторожа"
+        ]
+      },
+      "score": 1
+    },
+    {
+      "id": "63",
+      "meta": {
+        "language": "ru",
+        "source": "yandex_test"
+      },
+      "text": "В одном из выделенных ниже слов допущена ошибка в образовании формы слова.\nим ДВИЖЕТ чувство долга\nбархатных ПЛАТЬЕВ\nИСПЕКЁТ булочки\nоказался БОЙЧЕ всех\nс ПЯТИСОТЫМ конкурсантом\nИсправьте ошибку и запишите слово правильно.",
+      "attachments": [],
+      "question": {
+        "type": "text",
+        "max_length": 30,
+        "recommended_length": 20,
+        "restriction": "word"
+      },
+      "solution": {
+        "correct_variants": [
+          "испечёт",
+          "испечет"
+        ]
+      },
+      "score": 1
+    }
+  ]
+}
