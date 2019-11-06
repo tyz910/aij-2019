@@ -1,6 +1,17 @@
+import pymystem3.mystem
+import nltk
+from deeppavlov import build_model, configs
 import tensorflow as tf
 import tensorflow_hub as hub
 import tf_sentencepiece
+
+pymystem3.mystem.autoinstall()
+
+nltk.download('stopwords')
+nltk.download('punkt')
+
+CONFIG_PATH = configs.ner.ner_rus
+model = build_model(CONFIG_PATH, download=True)
 
 g = tf.Graph()
 with g.as_default():

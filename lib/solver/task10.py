@@ -216,7 +216,8 @@ class Task10Solver(BaseSolver):
             for char in self.CHARS:
                 word_with_char = word.replace('..', char)
                 result[char] = {
-                    'correct': self.speller.is_correct(word_with_char),
+                    # 'correct': self.speller.is_correct(word_with_char),
+                    'correct': 1,
                     'known': self.speller.is_known(word_with_char),
                 }
 
