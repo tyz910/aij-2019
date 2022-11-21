@@ -32,7 +32,7 @@ sklearn==0.0
 sortedcontainers==2.1.0
 summa==1.2.0
 tensorflow-hub==0.7.0
-tensorflow==1.14.0
+tensorflow==2.9.3
 tf-sentencepiece==0.1.83
 torch==1.2.0
 tqdm==4.32.2
